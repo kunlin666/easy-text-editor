@@ -1,7 +1,8 @@
+// this file is not in the program, but can add this source code to it.(manage the contents(string) of a file (default: 25 per line))
+
 #include<iostream>
 #include<string>
 using namespace std;
-
 
 
 int main(){
